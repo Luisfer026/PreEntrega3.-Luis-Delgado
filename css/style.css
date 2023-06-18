@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+.titulos{
+    color: rgba(127, 255, 212, 0.534);
+    font-size: 20px;
+    
+
+}
+
+.destacado{
+color: rgb(86, 60, 109);
+}
+
+#heder-index nav ul li a{
+    
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+    background-color: rgba(40, 181, 134, 0.422);
+    
+}
+header nav li{
+    display: inline-block;
+    
+
+}
+ul{
+    list-style: none;
+}
+
+header{
+    background-color: rgb(86, 60, 109);
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}
+header nav{
+    background-color: seagreen;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding:10px ;
+    
+}
+
+p{
+    font-size: 20px;
+}
+.titulos{
+    color: rgb(86, 60, 109);
+    font-size: 30px;
+}
+.destacado{
+    color: rgba(127, 255, 212, 0.534);
+}
+h1{
+    background-color: rgba(127, 255, 212, 0.534)90;
+    padding:50px 50px;
+    margin: 50p
+    }
+    main{
+        background-color: rgba(127, 255, 212, 0.534);
+    }
+    footer{
+        background-color: rgb(86, 60, 109);
+    }
+    a{
+        background-color: rgba(127, 255, 212, 0.534);
+    }
+    section div{
+    padding: 10px 10px;
+    margin: 10px 10px;
+
+  }  
